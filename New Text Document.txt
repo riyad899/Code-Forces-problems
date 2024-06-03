@@ -1,13 +1,18 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int num;
-    cin>>num;
-    if(num%2==0  && num>2){
-        cout<<"YES"<<endl;
+    int n , k , s, next=0;
+    cin>>n>>k;
+    vector<int>scrore;
+
+    for(int i=0; i<n; i++){
+        cin>>s;
+        scrore.push_back(s);
     }
-    else{
-        cout<<"NO"<<endl;
+    for(int i=0; i<n; i++){
+        if(scrore[i]>=scrore[k-1] && scrore[i]>0){
+            next++;
+        }
     }
-      return 0;
+    cout<<next<<endl;
 }
