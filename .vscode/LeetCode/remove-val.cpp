@@ -27,6 +27,5 @@ int main() {
 
     int remainingElements = sol.removeElement(nums, nums[k - 1]);
     cout << remainingElements;
-
     return 0;
 }

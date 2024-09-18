@@ -1,1 +1,1 @@
-into *= x * y * z;
+    FastIO();
