@@ -114,9 +114,9 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [riyad-x](https://github.com/riyad-x)
-- **LinkedIn**: [riyad-x](https://www.linkedin.com/in/riyad-x)
-- **Email**: your-email@example.com
+- **GitHub**: [riyad899](https://github.com/riyad899)
+- **LinkedIn**: [riyadussalehin](https://www.linkedin.com/in/riyadussalehin/)
+- **Email**: raditkhan42@gmail.com
 
 ## 🤝 Acknowledgements
 
@@ -127,3 +127,6 @@ Special thanks to:
 - Open-source contributors for making knowledge freely accessible to all.
 
 Feel free to replace placeholder content, such as problem counts and your email, to personalize the file!
+
+
+
